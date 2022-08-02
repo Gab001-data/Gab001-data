@@ -1,6 +1,6 @@
 👋 Hi, I’m Gabriel Ogih. 
 
-I'm an Experienced data analytics consultant with a demonstrated history of working in computer software and financial industry. Skilled in Python, python data manipulation libraries (Pandas, Numpy), matplotlib, seaborn, and SQL.
+I'm an experienced data analytics consultant with a demonstrated history of working in computer software and financial industry. Skilled in Python, python data manipulation libraries (Pandas, Numpy), matplotlib, seaborn, and SQL.
 
 I’m interested in Data analysis/science.
 
